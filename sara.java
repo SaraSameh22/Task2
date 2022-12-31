@@ -1,7 +1,7 @@
 public class sara {
 
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
-        System.Out.Println("Sara");
+        System.out.println("Sara");
     }
 }
