@@ -2,8 +2,8 @@ FROM openjdk
 
 WORKDIR /application
 
-COPY Sara.java .
+COPY sara.java .
 
-RUN javac Sara.java
+RUN javac sara.java
 
-CMD java Sara
+CMD java sara
