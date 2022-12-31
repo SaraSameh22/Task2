@@ -1,6 +1,6 @@
-Public class Sara {
+public class sara {
 
-    Public static void main(string[] args)
+    public static void main(string[] args)
     {
         System.Out.Println("Sara");
     }
